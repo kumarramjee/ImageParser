@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IMagePrsingForWeather</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="open_weather_maps_app_id">b28567949b8aa121a5c7d05bbc15ce99</string>
+</resources>
